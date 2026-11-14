@@ -1,0 +1,32 @@
+[
+  {
+    "id": "RT-01",
+    "title": "Object rotation + colour exchange",
+    "research_goal": "Rotate each separate object clockwise and exchange two colours."
+  },
+  {
+    "id": "RT-02",
+    "title": "Size-based reordering",
+    "research_goal": "Reorder differently sized colour bars without changing their colours."
+  },
+  {
+    "id": "RT-03",
+    "title": "Global frequency-based recolouring",
+    "research_goal": "Identify the least frequent coloured object and recolour its cells."
+  },
+  {
+    "id": "RT-04",
+    "title": "Spatial mirror and translation",
+    "research_goal": "Infer and combine mirror reflection with spatial displacement."
+  },
+  {
+    "id": "RT-05",
+    "title": "Largest-object extraction",
+    "research_goal": "Identify an object by area and transform its appearance and location."
+  },
+  {
+    "id": "RT-06",
+    "title": "Simple colour substitution control",
+    "research_goal": "Infer a straightforward replacement rule."
+  }
+]

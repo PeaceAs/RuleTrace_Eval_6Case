@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "model_id": "GPT-6",
+    "thinking_effort": "Medium",
+    "date": "2026-11-06",
+    "method": "manual verbatim copy from ChatGPT, with matching PNG attached",
+    "runs_per_case": 1
+  },
+  "responses": [
+    {
+      "id": "RT-01",
+      "response": ""
+    },
+    {
+      "id": "RT-02",
+      "response": ""
+    },
+    {
+      "id": "RT-03",
+      "response": ""
+    },
+    {
+      "id": "RT-04",
+      "response": ""
+    },
+    {
+      "id": "RT-05",
+      "response": ""
+    },
+    {
+      "id": "RT-06",
+      "response": ""
+    }
+  ]
+}
